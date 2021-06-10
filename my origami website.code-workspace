@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\Origami Website"
+		},
+		{
+			"path": "..\\..\\Downloads\\OrigamiImages\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Origami Website",
+		"liveServer.settings.port": 5501
+	}
+}
